@@ -8,3 +8,6 @@
 ```
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
+- [X] Turn on GitHub pages
+- [ ] Outline my portofolioioio
+- [ ] Intrduce myself to the world
